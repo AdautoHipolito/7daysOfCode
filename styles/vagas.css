@@ -1,0 +1,30 @@
+.vagas{
+    padding: 0 15vw;
+}
+
+.vagas__titulo{
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--cinza-escuro);
+    padding: 3em 0 2em 0;
+}
+
+.vagas__item{
+    line-height: 28px;
+    color: var(--cinza-escuro);
+    padding: 0 0 1em 0;
+}
+
+.vagas__job{
+    font-size: 16px;
+}
+
+.vagas__lista{
+    border-radius: 16px;
+    padding: 24px 24px 28px 24px;
+    border-color: black;
+    border: 1px solid var(--cinza-branco);
+    gap: 24px;
+    margin-bottom: 1em;
+}
+

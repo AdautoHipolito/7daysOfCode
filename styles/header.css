@@ -1,0 +1,40 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container__menu{
+  margin: 0 20vw 0 0;
+}
+
+.container__link, .container__botoes{
+    text-decoration: none;
+    margin: 0 1em;
+    font-size: 16px;
+}
+
+.container__imagem{
+    display: flex;
+    align-items: center;
+}
+
+.container__titulo{
+    color: var(--preto-claro);
+}
+
+.imagem{
+    margin-right: 0.6em;
+}
+
+.container__link{
+    font-size: 16px;
+}
+
+
+.container__cadastro{
+    color: var(--branco);
+    background:var(--vermelho);
+    padding: 10px 18px 10px 18px;
+    border-radius: 8px;
+    gap: 8px;
+}

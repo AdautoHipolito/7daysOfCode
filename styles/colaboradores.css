@@ -1,0 +1,41 @@
+.colaboradores{
+    display: block;
+    text-align: center;
+    padding: 5vw 0;
+}
+
+.container__colaboradores{
+    background-color: var(--backgroud-banner);
+    padding: 64px;
+    gap: 32px;
+}
+
+.colaboradores__frase{
+    color: var(--vermelho);
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    padding: 1.5em 0;
+}
+
+.colaboradores__texto{
+    font-size: 36px;
+    line-height: 44px;
+    color: var(--cinza-escuro);
+}
+
+.colaboradores__nome{
+    color: var(--cinza-escuro);
+    font-size: 16px;
+}
+
+.colaboradores__nome-area{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 1em 0;
+}
+
+.colaboradores__imagem{
+    padding: 2em 0 1em 0;
+}

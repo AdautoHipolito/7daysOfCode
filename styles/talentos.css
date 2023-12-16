@@ -1,0 +1,33 @@
+.talentos{
+    display: block; 
+    text-align: center;
+}
+
+.talentos__frase{
+    color: var(--vermelho);
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 16px;
+    background:var(--vermelho-transparente);
+    padding: 4px 12px;
+    text-decoration: none;
+    
+}
+.talentos__titulo{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: var(--cinza-escuro);
+    padding: 1em 0;
+}
+
+.talentos__texto{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 0 0 3em 0;
+}
+
+.talentos__imagem{
+    width: 100%;
+}
